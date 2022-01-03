@@ -1,0 +1,42 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    background-color: pink;
+    color: black;
+  }
+  .heading:hover {
+    background-color: pink;
+    color: black;
+  }
+  .heading_div
+  {
+    background: powderblue; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div:hover {
+    background-color: powderblue;
+    color: black;
+  }
+  .heading_div2
+  {
+    background-color: lightyellow;
+    color: black;
+  }
+  .heading_div2:hover {
+    background-color: lightyellow;
+    color: black;
+  }
+  .result_para_tag
+  {
+    font-size:30px;
+    background-color: powderblue;
+    width: fit-content;
+  }
+  body {
+    font-family: 'Gloria Hallelujah', cursive;
+    background-image:url("background.jpg");
+  }
